@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "upstream": "chavyleung/scripts",
+  "base_commit": "39f8e8f2397cd518d85dfc135895a1112317ed10",
+  "role": "boxjs",
+  "releases": [],
+  "managed_paths": [
+    "box/rewrite/boxjs.rewrite.surge.sgmodule"
+  ]
+}
