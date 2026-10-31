@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "upstream": "chavyleung/scripts",
+  "branch": "master",
+  "upstream_commit": "bfab3c906f3d5d126e9094f15730e025f7f32128",
+  "mode": "merge-upstream",
+  "checked_at": "2026-10-31T11:22:31.305Z"
+}
